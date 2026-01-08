@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  🔭 I’m working for [eProsima - Middleware, Robots and AI](https://github.com/eProsima).
+  🔭 I’m studying a [MSc Robotics on TU Delft]([https://github.com/eProsima](https://www.tudelft.nl/onderwijs/opleidingen/masters/robotics/msc-robotics)).
 
 </div>
 
