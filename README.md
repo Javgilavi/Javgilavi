@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  🔭 I’m studying a [MSc Robotics on TU Delft]([(https://www.tudelft.nl/onderwijs/opleidingen/masters/robotics/msc-robotics)]).
+  🔭 I’m studying a [MSc Robotics on TU Delft]([https://www.tudelft.nl/onderwijs/opleidingen/masters/robotics/msc-robotics]).
 
 </div>
 
