@@ -35,6 +35,74 @@
 <br/>
 <hr/>
 
+---
+
+## 👋 Hi, I'm Javi Gil
+
+**Perception & AI Robotics Engineer** focused on CV, sensor fusion, and Physical AI.  
+I build scalable perception and learning systems for real-world robotics using modern AI.
+
+> **Current Status:** MSc Robotics @ TU Delft | Research & Industry Experience (GRVC, eProsima)
+
+---
+
+### 🎯 Focus
+
+I enjoy working at the intersection of:
+
+* Embodied & Physical AI for robotics
+* Computer Vision & Multi-Sensor Fusion
+* Foundation Models & RAG for industrial systems
+* Production-grade perception pipelines
+
+---
+
+### 🚀 Featured Projects
+
+* **[Mobile Manipulator Waiter (MPC + PRM)](https://github.com/Javgilavi/MobileManipulator-Waiter_mpc_prm)**  
+  Motion planning system for autonomous mobile manipulation in dynamic environments using MPC and sampling-based planners.
+
+* **[Crazyflie Autonomous Navigation](https://github.com/Javgilavi/Crazyflie-Autonomous-Navigation)**  
+  End-to-end autonomous navigation stack for nano-quadrotors with state estimation, planning, and control.
+
+* **[Multi-Sensor Maritime Tracking (Master Thesis)]**  
+  C++ / ROS2 / Fast DDS system for real-time multi-obstacle tracking on USVs, developed at GRVC.
+
+* **SustainML RAG Platform (eProsima × DFKI)**  
+  RAG-based knowledge and ML lifecycle system integrating transformer models and sustainable AI practices.
+
+* **Delft Neptunians – RAMI 2026 Perception Stack**  
+  Perception lead for autonomous submarine robot using camera, radar, and IMU fusion.
+
+---
+
+### 🏆 Leadership & Community
+
+* External Affairs – ASIMOV (TU Delft) 
+* Vice President – ESTIEM LG Seville   
+* Member – The Exponential Fellowship (Spanish AI & Software Community)
+* Co-Founder of ServiAgro, winner or Idea Competition from Camara de Comercio de Sevilla
+* Active in international robotics and AI competitions
+
+---
+
+### 🛠 Technical Stack
+
+**Languages:** C++, Python, C, MATLAB  
+**Robotics:** ROS2, Fast DDS, Navigation, Tracking  
+**AI/ML:** CV, RAG, PyTorch, Foundation Models  
+**Tools:** Linux, Docker, Git, Qt/QML, SQL
+
+---
+
+### 🌍 Opportunities
+
+Actively seeking **top internships worldwide in Perception and CV**.  
+Open to international roles — I can sponsor my own visa if needed.
+
+---
+
+
 <div align=center>
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Javgilavi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Javgilavi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
